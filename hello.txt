@@ -1,2 +1,1 @@
-This is a test.  
 We are adding another line to this file.
